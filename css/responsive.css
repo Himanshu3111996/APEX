@@ -1,0 +1,805 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (min-width:800px) and (max-width:1280px){
+		header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.banner{background: url(../images/banner.jpg) repeat-y;
+background-size: none;
+height:537px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat left;
+    padding: 12px 0px 84px 7px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+   width: 70%;
+margin: 0px 0px 0px 100px;
+height: auto;
+
+}
+	}
+@media screen and (min-width:769px) and (max-width:1024px){
+		header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.banner{background: url(../images/banner.jpg);
+background-size: none;
+height:418px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat left;
+    padding: 12px 0px 84px 7px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+   width: 70%;
+margin: 0px 0px 0px 100px;
+height: auto;
+
+}
+	}
+@media screen and (min-width:641px) and (max-width:768px){
+		header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.banner{background: url(../images/banner.jpg) repeat-y;
+background-size: none;
+height:403px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat left;
+    padding: 12px 0px 84px 7px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+   width: 70%;
+margin: 0px 0px 0px 100px;
+height: auto;
+
+}
+	}
+@media screen and (max-width:640px){
+		header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.form-area {
+    background: rgb(0, 159, 236);
+    padding: 10px 40px 27px;
+    margin:-36px 0px 22px 0px;
+    border: 1px solid GREY;
+    height: 562px;
+}
+
+.banner{background: url(../images/banner.jpg) no-repeat;
+background-size: none;
+height:336px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat left;
+    padding: 12px 0px 84px 7px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    height: auto;
+}
+
+	}
+		@media screen and (max-width:480px){
+	header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.banner{background: url(../images/banner.jpg) no-repeat;
+background-size: none;
+height:273px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.form-area {
+    background: rgb(0, 159, 236);
+    padding: 10px 40px 27px;
+    margin: -21px 0px 22px 0px;
+    border: 1px solid GREY;
+    height: 562px;
+}
+
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat center;
+    padding:12px 0px 84px 92px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans h2 {
+    font-size: 36px;
+    color: #009fec;
+    padding: 0px;
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    height: auto;
+}
+.col-lg-6 {
+    margin: 0px 0px 33px 0px;
+
+	}
+	.form-area {
+    background: rgb(0, 159, 236);
+    padding: 10px 40px 27px;
+    margin:-36px 0px 22px 0px;
+    border: 1px solid GREY;
+    height: 562px;
+}
+
+	}
+	
+	@media screen and (max-width:360px){
+	header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.banner{background: url(../images/banner.jpg) no-repeat;
+background-size: none;
+height:210px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.form-area {
+    background: rgb(0, 159, 236);
+    padding: 10px 40px 27px;
+    margin: -21px 0px 22px 0px;
+    border: 1px solid GREY;
+    height: 562px;
+}
+
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.viewPlans h2 {
+    font-size: 36px;
+    color: #009fec;
+    padding: 0px;
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat left;
+    padding: 12px 0px 84px 7px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    height: auto;
+}
+.col-lg-6 {
+    margin: 0px 0px 33px 0px;
+
+	}
+	.form-area {
+    background: rgb(0, 159, 236);
+    padding: 10px 40px 27px;
+    margin: -5px 0px 22px 0px;
+    border: 1px solid GREY;
+    height: 562px;
+}
+}
+	
+@media screen and (max-width:320px){
+	header .col-lg-4 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.banner{background: url(../images/banner.jpg) no-repeat;
+background-size: none;
+height:189px;
+background-size: 100%;
+margin:131px 0px 0px 0px;
+}
+.viewPlans h2 {
+    font-size: 36px;
+    color: #009fec;
+    padding: 0px;
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+header .col-lg-8 {
+    width: 100%;
+    margin: -22px 0px 0px 0px;
+    padding: 0;
+}
+.form-area {
+    background: rgb(0, 159, 236);
+    padding: 10px 40px 27px;
+    margin: -21px 0px 22px 0px;
+    border: 1px solid GREY;
+    height: 562px;
+}
+
+.logo-section {
+    width: 100%;
+    height:90px;
+    background:rgb(56, 55, 55);
+    z-index: 1223334444;
+	position: relative;
+	top:-109px;
+
+}
+.navbar-brand {
+   float: left;
+height: 81px;
+padding: 6px 9px 0px 4px;
+font-size: 18px;
+line-height: 20px;
+width: 50%;
+}
+.pice-section {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+.featuressection {
+    width: 100%;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+}
+
+.featuressection h1 {
+    font-size: 43px;
+    text-align: center;
+    background: url(../images/line.png) no-repeat center;
+    padding: 0px 0px 84px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.about-section {
+    width: 100%;
+    height: auto;
+    padding:42px 0px 57px 0px;
+    background: #f59f6b;
+    margin: 33px 0px 58px 0px;
+}
+.about-section h1 {
+    font-size: 44px;
+    color: #fff;
+    background: url(../images/line.png) no-repeat left;
+    padding: 12px 0px 84px 7px;
+    line-height: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width: 96%;
+    margin: 2%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+    height: auto;
+}
+
+.offer-section {
+    width: 100%;
+    height: auto;
+    padding: 41px 0px 48px 0px;
+    margin: 33px 0px 20px 0px;
+    background: #f0f0f0;
+}
+.offer-section h1 {
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.offer-section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.footer-form {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    height: auto;
+}
+.col-lg-6 {
+    margin: 0px 0px 33px 0px;
+
+	}}

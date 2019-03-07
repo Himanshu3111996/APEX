@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600');
+body{margin:0; padding:0;}
+*{margin:0; padding:0; outline:none;}
+.clear{display:block; clear:both;}
+
+/***header***/
+header{width:100%; height:auto; }		
+
+header .col-lg-4 {
+    width: 33.33333333%; margin:0px; padding:0px;
+}		
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding:4px 15px;
+    font-size: 18px;
+    line-height: 12px;
+}
+.banner{background:url(../images/banner.jpg) repeat-y; background-size:100%;  height:474px; margin:91px 0px 0px 0px;}
+header .col-lg-8 {
+    width: 66.66666667%;
+	margin:0; padding:0;
+}
+.logo-section{width:100%; height:90px; background:rgb(56, 55, 55); z-index: 1223334444; position: relative;
+    top: -91px;}
+.right-logo{float:right;}	
+.red{color:red;}
+.form-area{background:rgb(0, 159, 236); padding:10px 40px 27px; margin:0px 0px 22px 0px; border: 1px solid GREY; height: 562px;} 	
+.form-area p{color:#fff; font-size:22px; text-align:center;   padding:50px 0px 0px 0px;}
+.btn-primary2 {color:#fff; background:#000; border:#204d74; width: 100%;}
+.btn-primary2:hover{color:#fff; background:#333;}
+/***header****/
+								
+/***FEATURES***/
+.featuressection {width:100%; height:auto; padding:30px;}					  
+.featuressection p{color:#333; font-size:18px; font-family:Calibri;}						 
+.featuressection h1{font-size:44px; text-align:center; background:url(../images/line.png) no-repeat center; padding: 0px 0px 84px 0px; font-family: 'Oswald', sans-serif;}			
+.featuressection .box-one{width: 100%; height: 155px; background:#f1f1f1; padding: 40px 20px 40px 20px; margin: 6px;}
+.featuressection .box-one h2{color:#000; font-size:20px; text-align:center; font-family:Calibri;}	
+.box-web{} 
+		.box-web ul{list-style:none; padding:0; margin:0;}
+		.box-web ul li{display:block; text-decoration:none; list-style:none; font-size:18px;}																
+/***FEATURES***/
+
+/***about-us***/
+	.about-section{width:100%; height:auto; padding:66px; background:#f59f6b; margin:33px 0px 58px 0px;}
+	.about-section h1{font-size:44px; color:#fff; background:url(../images/line.png) no-repeat left; padding:0px 0px 84px 7px;     line-height: 1px; font-family: 'Oswald', sans-serif;} 
+	.about-section p{color:#fff; font-size:18px; text-align:justify; font-family:Calibri;  margin:-22px 0px 0px 0px;}
+	.about-section img{width:100%; height: 287px; border: 8px solid #fff;}
+/***about-us***/
+
+/***PRICE***/
+		.pice-section{width:100%; height:auto; padding:30px;}
+		.pice-section h3{font-size:56px; text-align:center; color:#009FEC; font-family: 'Oswald', sans-serif;}
+		.pice-section h2{text-align:center; font-size:30px; color:#333; font-family: 'Oswald', sans-serif;}
+		.pice-section p{font-size:34px; text-align:center; font-family:Calibri; margin: 19px 0px 0px 0px;
+}
+/***PRICE***/
+
+/***plan***/
+		.plan-section{width:100%; height:auto; padding:30px; margin:33px 0px 58px 0px;}
+		.viewPlans .col-md-6 {
+    background: #f0f0f0;
+    padding: 15px;
+    width:31%;
+    margin:1%;
+    border: 5px #eee solid;
+    box-shadow: 0px 0px 8px #666666;
+    border-radius: 3px;
+	 height:449px;
+}
+
+.viewPlans {
+    padding: 30px 0px;
+}
+.viewPlans h2 {
+    font-size: 40px;
+    color:#009fec;
+    padding: 0px;
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.viewPlans a {
+    font-size: 14px;
+    color: #242424;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0px auto;
+}
+/***plan***/
+
+/***offer-setion****/
+.offer-section{width:100%; height:auto;  padding:57px; margin:33px 0px 20px 0px; background:#f0f0f0;}
+.offer-section h2{font-size:35px; text-align:center;}
+.offer-section .offer-box{background:#0074E8; color:#FFF; padding:30px 0px 53px 0px; border-radius:6px;}
+.offer-section h1{font-size:60px; text-align:center; font-family: 'Oswald', sans-serif;}
+.offer-section p{color:#fff; text-align:center; font-size:24px; font-family:Calibri;}
+.offer-section .offer-box2{padding:30px 0px 0px 0px; border-radius:6px;}
+.offer-section .offer-box2 h3{font-size:68px; text-align:center; font-family: 'Oswald', sans-serif;}
+.offer-section .offer-box2 p{color:#333; text-align:center; font-size:30px; font-family:Calibri;}
+/***offer-setion****/
+
+
+/***price-list****/
+	.price-list-section{width:100%; height:auto;  padding: 20px; margin:0px 0px 27px 0px;}
+	.price-list-section h2{font-size:44px; text-align:center; background:url(../images/line.png) no-repeat center; padding: 0px 0px 84px 0px; font-family: 'Oswald', sans-serif;}	
+	.price-list-section .thead-inverse{background:#333;}
+	.price-list-section .thead-inverse th{color:#fff; border-left:1px solid #fff; }
+	.price-list-section .thead-inverse td{color:#000; border-left:1px solid #ccc; }
+	.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+/***price-list****/
+
+/***footer***/
+	footer{background:#333; padding:30px;}
+	.footer-form{width: 65%; margin: 0px 0px 0px 240px; height: auto;}
+	footer h2{font-size:44px; text-align:center; color:#fff; background:url(../images/line.png) no-repeat center; padding:0px 0px 70px 0px; font-family: 'Oswald', sans-serif;}
+	.footer-form .submit{width: 100%;
+    height: auto;
+    background: #000;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+    margin:0px 0px 0px 0px;
+    padding: 3px 0px 4px 0px;
+    font-size: 21px;
+	    border-radius: 4px;}	
+	.footer-form .input-text{    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	margin:0px 0px 11px 0px;
+}	
+/***footer***/
+
+.thankHeader {
+    background:#009FEC;
+    padding: 10px 0px;
+}
+.thankmid img {
+    margin-top: 30px;
+}
+.thankmid h2 {
+    text-align: center;
+    font-size: 80px;
+    color:#000;
+    line-height: 26px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 25px;
+    font-weight: 700;
+    margin: 50px 0px;
+}
+.thankmid p {
+    font-size: 16px;
+    color: #fff;
+}
+.thankmid a {
+    padding: 30px 0px;
+    font-size: 12px;
+    color: #F00;
+}
+
+.img-f{height:300px;}
