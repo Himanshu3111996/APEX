@@ -61,7 +61,7 @@
                             ValidationExpression="[a-zA-Z ]*$" ErrorMessage="Please Enter Only Alphabets in Name field" />
                     </div>
                     <div class="form-group">
-                        <asp:TextBox CssClass="form-control" ID="txtemail" MaxLength="150" name="email" placeholder="Email" runat="server"></asp:TextBox>
+                        <asp:TextBox CssClass="form-control" ID="txtemail" MaxLength="150" name="email" placeholder="Your Email" runat="server"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="rfvtxtemail" runat="server" ControlToValidate="txtemail"
                             ErrorMessage="Please Enter Email" ValidationGroup="Add" Display="None"></asp:RequiredFieldValidator>
                         <asp:RegularExpressionValidator ID="revEmail" ControlToValidate="txtemail"
